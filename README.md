@@ -25,3 +25,7 @@ Also, you can CLEAN your RAM memory releasing some more space.
 - [STPrivilegedTask](https://github.com/sveinbjornt/STPrivilegedTask)
 
 ## In action
+
+![preview1](https://raw.githubusercontent.com/AlbertoLourenco/MacData/main/github-assets/preview-1.gif)
+![preview2](https://raw.githubusercontent.com/AlbertoLourenco/MacData/main/github-assets/preview-2.gif)
+![preview3](https://raw.githubusercontent.com/AlbertoLourenco/MacData/main/github-assets/preview-3.gif)
