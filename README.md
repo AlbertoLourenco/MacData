@@ -17,13 +17,11 @@ Also, you can CLEAN your RAM memory releasing some more space.
 
 ## This project uses:
 
-```
 - AppKit
-- SMC
-- SystemKit
-- OrganicView
-- STPrivilegedTask
 - SwiftUI
-```
+- [SMCKit](https://github.com/beltex/SMCKit)
+- [SystemKit](https://github.com/beltex/SystemKit)
+- [OrganicView](https://github.com/AlbertoLourenco/OrganicView)
+- [STPrivilegedTask](https://github.com/sveinbjornt/STPrivilegedTask)
 
 ## In action
